@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&width=435&lines=heyo!+I+am+ZWZODO)](https://github.com/ZWZODO)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&width=435&lines=heyo!+I+am+zodo)](https://github.com/zodo-tech)
 
 <h3> About Me </h3>
 
@@ -25,9 +25,9 @@
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZWZODO&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zodo-tech&theme=buefy&show_icons=true" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZWZODO&theme=buefy&layout=compact&langs_count=10&hide=Shell&card_width=400" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zodo-tech&theme=buefy&layout=compact&langs_count=10&hide=Shell&card_width=400" />
 
 </div>
 
@@ -35,8 +35,8 @@
 
 <div align="center">
 
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=ZWZODO&theme=radical&count)
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=zodo-tech&theme=radical&count)
   
-  <img src="https://activity-graph.herokuapp.com/graph?username=ZWZODO&theme=radical&count_private=true" width="100%">
+  <img src="https://activity-graph.herokuapp.com/graph?username=zodo-tech&theme=radical&count_private=true" width="100%">
 
 </div>
